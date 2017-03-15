@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html lang="sk">
 <head>
     <title>Bootstrap Example</title>
     <meta charset="utf-8" />
@@ -18,7 +18,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-4">
-                <h3>Rozvrh hod�n</h3>
+                <h3>Rozvrh hodín</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
                 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
             </div>
