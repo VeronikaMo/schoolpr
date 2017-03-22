@@ -23,7 +23,7 @@
             <div class="col-sm-4">
                 <h3>Rozvrh hodín</h3>
                 <p>-obsah-</p>
-                <p>-obsah fasdfa fds-</p>
+                <p>-obsah frfrfrfrfrf-</p>
             </div>
             <div class="col-sm-4">
                 <h3>Hodnotenia a úlohy</h3>
