@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="sk">
 <head>
     <title>Bootstrap Example</title>
@@ -11,8 +11,8 @@
 <body>
 
     <div class="jumbotron text-center">
-        <h1>My First Bootstrap Page</h1>
-        <p>Resize this responsive page to see the effect!</p>
+        <h1>ŠKOLA</h1>
+        <p>Sleduj svoje známky, najbližšie písomky, rozvrh a iné aktivity na škole</p>
     </div>
 
     <div class="container">
