@@ -19,18 +19,18 @@
         <div class="row">
             <div class="col-sm-4">
                 <h3>Rozvrh hodín</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                <p>-obsah-</p>
+                <p>-obsah-</p>
             </div>
             <div class="col-sm-4">
                 <h3>Hodnotenia a úlohy</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                <p>-obsah-</p>
+                <p>-obsah-</p>
             </div>
             <div class="col-sm-4">
                 <h3>Aktivity a súťaže</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                <p>-obsah-</p>
+                <p>-obsah-</p>
             </div>
         </div>
     </div>
