@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col-sm-4">
                 <h3>Rozvrh hodín</h3>
-                <p>-obsah-</p>
+                <p>-obsah zgjhgjhgjhg-</p>
                 <p>-obsah-</p>
             </div>
             <div class="col-sm-4">
