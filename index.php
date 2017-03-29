@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="sk">
 <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                <meta name="description" content="">
+                <title>  Škola</title>
     <title>Bootstrap Example</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -81,7 +84,7 @@
             <div class="col-sm-4">
                 <h3>Rozvrh hodín</h3>
                 <p>-obsah-</p>
-                <p>-obsah-</p>
+                <p>-obsah frfrfrfrfrf-</p>
             </div>
             <div class="col-sm-4">
                 <h3>Hodnotenia a úlohy</h3>
