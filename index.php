@@ -90,7 +90,7 @@
                         <a href="#">Znamky</a>
                     </div>
                     <div class="panel-body">
-                        <img src="znamky.jpg" class="img-responsive" style="width:100%" alt="Image" />
+                        <img src="https://www.google.sk/search?q=12345&rlz=1C1GGGE_skSK552SK556&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwibxLiapI7TAhUzS5oKHRdxC48Q_AUIBigB&biw=1366&bih=589#imgdii=MzGBuv8nLpBiPM:&imgrc=LgsYdf_tcRG5gM:" class="img-responsive" style="width:100%" alt="Image" />
                     </div>
                     <div class="panel-footer">Ako sa mi dari?</div>
                 </div>
